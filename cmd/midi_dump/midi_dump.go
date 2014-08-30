@@ -1,3 +1,4 @@
+// The midi_dump command prints out information about all MIDI events seen, for debugging.
 package main
 
 import (
