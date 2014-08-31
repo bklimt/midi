@@ -4,6 +4,8 @@ Midi
 A Go library for receiving MIDI events using ALSA asound.
 Specifically designed for use on the Raspberry Pi.
 
+[API Reference](https://godoc.org/github.com/bklimt/midi)
+
 # Dependencies
 
 To install the dependencies in raspbian, install these apt packages:
